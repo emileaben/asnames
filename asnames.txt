@@ -13,7 +13,7 @@
 7018 AT&T
 7922 Comcast
 8075 Microsoft
-8193 Uzbektelekom
+8193 Uztelecom
 8359 MTS
 8400 Telekom-Serbia
 8402 Vimpelcom
