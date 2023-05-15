@@ -13,6 +13,7 @@
 7018 AT&T
 7922 Comcast
 8075 Microsoft
+8193 Uztelecom
 8359 MTS
 8400 Telekom-Serbia
 8402 Vimpelcom
@@ -46,6 +47,7 @@
 35598 INETCOM
 41330 Tele2-NOVOSIBIRSK
 41937 Supernova
+42020 Ogero
 42610 NCNET
 44143 A1-Serbia
 48092 Tele2-NSB
